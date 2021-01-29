@@ -56,4 +56,4 @@ Here..!! We go start the session
 
 ![dog](https://github.com/sruthichaluvadi/sample1/blob/main/dog.jpg)
 
-![kitty]()
+![kitty](https://github.com/sruthichaluvadi/sample1/blob/master/kitty.jpg)
